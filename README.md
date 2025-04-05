@@ -13,4 +13,4 @@
 
 # Carpeta principal
 
-- [Registro e Inicio de Sesión](https://github.com/JuanCamiloGanan/juancamiloganan.github.io/tree/main/Hoja%20de%20vida)
+- [Hoja de vida](https://github.com/JuanCamiloGanan/juancamiloganan.github.io/tree/main/Hoja%20de%20vida)
